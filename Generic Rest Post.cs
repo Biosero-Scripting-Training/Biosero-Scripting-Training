@@ -9,7 +9,7 @@ using System.Net;
 
 namespace GreenButtonGo.Scripting
 {
-    public class Turn_Lights_Off : BioSero.GreenButtonGo.GBGScript
+    public class Generic_REST_Post : BioSero.GreenButtonGo.GBGScript
     {
 
         public void Run(Dictionary<String, Object> variables, RuntimeInfo runtimeInfo)
